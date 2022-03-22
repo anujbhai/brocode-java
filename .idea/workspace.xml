@@ -40,7 +40,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="inlay.hints" />
   </component>
-  <component name="RunManager" selected="Application.RandomNumbers">
+  <component name="RunManager" selected="Application.Switches">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -63,6 +63,11 @@
     <configuration name="SwitchVariables" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="SwitchVariables" />
       <module name="SwitchVariables" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Switches" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Switches" />
+      <module name="Switches" />
       <method v="2" />
     </configuration>
     <configuration name="UserInput" type="Application" factoryName="Application">
