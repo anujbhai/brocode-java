@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/SwitchVariables.iml" filepath="$PROJECT_DIR$/SwitchVariables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switches/Switches.iml" filepath="$PROJECT_DIR$/Switches/Switches.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserInput/UserInput.iml" filepath="$PROJECT_DIR$/UserInput/UserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
     </modules>
   </component>
 </project>
