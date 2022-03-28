@@ -1,19 +1,36 @@
 public class Methods {
 	public static void main(String[] args) {
-		String name = "Anuj";
+		String name = "Anuj Upadhyay";
 		int age = 20;
 		hello(name, age);
 
 		double x = 3.0;
 		double y = 4.0;
-		// int z = add(x, y);
-		// int z2 = add(x, y, 5);
-		double z3 = add(x, y, 5.0, 11.0);
-		
-		System.out.println(z3);	
 
 		// Overloaded methods - methods that share the same namebut have different parameters
 		// (method name + parameters = method signatures)
+
+		// int z = add(x, y);
+		// int z2 = add(x, y, 5);
+		double z3 = add(x, y, 5.0, 11.0);
+		System.out.println(z3);	
+
+		//printf() - optional method to control, format, and display text to the console window
+		//					2 arguments = format string + (object/variable/value)
+		//					% [flags] [precision] [width] [conversion-character]
+		boolean active = true;
+		char myChar = '@';
+		double height = 171.00;
+
+		System.out.printf("User is active %b", active);
+		System.out.println();	
+		System.out.printf("Hello %4s .. Welcome!", name);
+		System.out.println();	
+		System.out.printf("You are %d yrs old.", age);
+		System.out.println();	
+		System.out.printf("You are %.2f cms tall", height);
+
+		System.out.println();	
 	}
 
 	static void hello(String name, int age) {
