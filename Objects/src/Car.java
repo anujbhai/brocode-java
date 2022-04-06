@@ -3,22 +3,14 @@ public class Car {
 	//							- Returns a string that textually represents a string
 	//							- can be used either implicitly and/or explicitly
 
-	String make = "Porsche";
-	String model = "Safari";
-	int year = 2015;
-	String color = "Sand";
-	double price = 50000.00;
+	String name;
 
-	void drive() {
-		System.out.println("Baby you can drive my car!");
-	}
-
-	void brake() {
-		System.out.println("Brakes applied");
+	Car(String name) {
+		this.name = name;
 	}
 
 	public String toString() {
-		String myString = make + "\n" + model + "\n" + color + "\n" + year; 
+		String myString = name + "\n"; 
 		return myString;
 	}
 }
