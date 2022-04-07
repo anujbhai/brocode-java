@@ -1,10 +1,10 @@
 public class Main {
 	public static void main(String[] args) {
-		Garage garage = new Garage();
-		Car car1 = new Car("Honda CDR1000RR");
-		Car car2 = new Car("Ducati Monster");
+		// static - modifier. A single copy of a variable/method is created and shared.
+		// 					The class "owns" the static mamber (shared by all instances of the class)
 
-		garage.park(car1);
-		garage.park(car2);
+		Car car1 = new Car();
+
+		car1.go();
 	}
 }
