@@ -3,8 +3,8 @@ public class Main {
 		// static - modifier. A single copy of a variable/method is created and shared.
 		// 					The class "owns" the static mamber (shared by all instances of the class)
 
-		Car car1 = new Car();
+		Dog dog1 = new Dog();
 
-		car1.go();
+		dog1.speak();
 	}
 }
