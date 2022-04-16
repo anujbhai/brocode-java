@@ -1,4 +1,4 @@
-public class Vehicle {
+public abstract class Vehicle {
 	double speed;
 
 	void go() {
