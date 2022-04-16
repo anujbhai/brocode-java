@@ -3,5 +3,8 @@ public class Car extends Vehicle {
 	//							- Returns a string that textually represents a string
 	//							- can be used either implicitly and/or explicitly
 
-
+	@Override
+	void go() {
+		System.out.println("The driver is driving the car");	
+	}
 }
