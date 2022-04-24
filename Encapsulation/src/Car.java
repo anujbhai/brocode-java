@@ -9,6 +9,10 @@ public class Car {
 		this.setYear(year);
 	}
 
+	Car(Car car) {
+		this.copyObj(car);
+	}
+
 	// Getter methods
 	public String getMake() {
 		return make;
