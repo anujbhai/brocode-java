@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IfStatements/IfStatements.iml" filepath="$PROJECT_DIR$/IfStatements/IfStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroToGUI/IntroToGUI.iml" filepath="$PROJECT_DIR$/IntroToGUI/IntroToGUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathClass/MathClass.iml" filepath="$PROJECT_DIR$/MathClass/MathClass.iml" />
