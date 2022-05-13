@@ -53,7 +53,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="FileSystem" />
+      <module name="GUI" />
       <method v="2" />
     </configuration>
     <configuration name="MathClass" type="Application" factoryName="Application">
