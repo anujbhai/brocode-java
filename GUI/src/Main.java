@@ -3,6 +3,7 @@ public class Main {
         // MyFrame frame = new MyFrame();
         // DemoBorderLayout newFrame = new DemoBorderLayout();
         // DemoFlowLayout newFlowLayoutFrame = new DemoFlowLayout();
-        DemoGridFlowLayout newGridLayout = new DemoGridFlowLayout();
+        // DemoGridFlowLayout newGridLayout = new DemoGridFlowLayout();
+        DemoLayeredPane newLayeredPane = new DemoLayeredPane();
     }
 }
