@@ -4,6 +4,9 @@ public class Main {
         // DemoBorderLayout newFrame = new DemoBorderLayout();
         // DemoFlowLayout newFlowLayoutFrame = new DemoFlowLayout();
         // DemoGridFlowLayout newGridLayout = new DemoGridFlowLayout();
-        DemoLayeredPane newLayeredPane = new DemoLayeredPane();
+        // DemoLayeredPane newLayeredPane =
+        // LaunchPage launchPage = new LaunchPage();
+        // DemoJOptionPane optionPane = new DemoJOptionPane();
+        DemoJTextField myTextbox = new DemoJTextField();
     }
 }
